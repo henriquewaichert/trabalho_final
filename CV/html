@@ -110,7 +110,7 @@
     </main>
 </header>
 <footer>
-    <h4>© 2024 Copyright. Todos os direitos reservados.</h4>
+    <h4 id="contato">© 2024 Copyright. Todos os direitos reservados.</h4>
     <a href="https://www.linkedin.com/in/henrique-waichert-844193245/" target="_blank"><img class="img-linkedin" src="img/social.png" alt=""></a>
     <a href="https://github.com/henriquewaichert"  target="_blank"><img class="img-git" src="img/github.png" alt=""></a>
     <a href="https://wa.me/5531989550286"  target="_blank" ><img class="img-wpp" src="img/whatsapp.png" alt=""></a>  
